@@ -1,0 +1,15 @@
+services:
+  neo4j:
+    image: neo4j:5.26
+    container_name: neo4jDB
+    restart: unless-stopped
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    env_file:
+      - .env
+    volumes:
+      - neo4j_data:/data
+
+volumes:
+  neo4j_data:

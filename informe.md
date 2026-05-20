@@ -1,0 +1,1 @@
+Link al word: https://estudianteccr-my.sharepoint.com/:w:/g/personal/jking_estudiantec_cr/IQA__LCBnPIWT6vzdd9LSkckAZm5n7pGMvWxQgYBXYfEIk4?e=7sM8ln 
